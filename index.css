@@ -1,0 +1,77 @@
+body {
+  background-image: url(/Recursos/BG3.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: #FFFFFF;
+}
+
+.usuario{
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  margin-top: 25px;
+  width: 270px;
+  height: 35px;
+  border-radius: 10px;
+  border-color: #707070;
+}
+
+.password{
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  margin-top: 20px;
+  width: 270px;
+  height: 35px;
+  border-radius: 10px;
+  border-color: #707070;
+}
+
+#login{
+  background-color: #FFFFFF;
+  width: 370px;
+  height: 390px;
+  border-radius: 24px;
+  position: absolute;
+  margin-left: 1380px;
+  margin-top: 262px;
+  border-color: black;
+  border-width: 10px;
+}
+
+#login .ingresar{
+  font-family: 'Segoe UI';
+  margin-top: 18px;
+  width: 291px;
+  height: 41px;
+  border: none;
+  background: none;
+  color: #FF5117;
+  margin-top: 10px;
+  margin-left: 145px;
+  font-weight: bold;
+}
+
+#login .RecoverPSW{
+  font-family: 'Segoe UI';
+  margin-top: 18px;
+  width: 291px;
+  height: 41px;
+  border: none;
+  background: none;
+  color: black;
+  margin-top: -40px;
+  margin-left: 95px;
+  font-weight: bold;
+}
+
+.form{
+  text-align: center;
+}
+
+.logo{
+  text-align: center;
+  margin-top: 50px;
+}
+
+.footer{
+  font-family: 'Segoe UI';
+  text-align: center;
+  margin-top: 90;
+}
